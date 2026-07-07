@@ -1,0 +1,42 @@
+{
+  "identifier" : "tickcount",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_askToBuyEnabled" : false
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21500001",
+      "localizations" : [],
+      "name" : "Tickcount Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "tickcount_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Seasonal tick frequency map and vet-share summary",
+              "displayName" : "Tickcount Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "tickcount_pro_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Tickcount Pro Monthly",
+          "subscriptionGroupID" : "21500001",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
