@@ -2,9 +2,9 @@ import SwiftUI
 
 /// Bespoke palette for Tickcount: warm/earthy tones distinct to this app's domain.
 enum Theme {
-    static let background = Color(red: 0x1C.0/255, green: 0x15.0/255, blue: 0x12.0/255)
-    static let primary = Color(red: 0x8B.0/255, green: 0x4A.0/255, blue: 0x2B.0/255)
-    static let accent = Color(red: 0xC9.0/255, green: 0xA2.0/255, blue: 0x27.0/255)
+    static let background = Color(red: 28.0/255, green: 21.0/255, blue: 18.0/255)
+    static let primary = Color(red: 139.0/255, green: 74.0/255, blue: 43.0/255)
+    static let accent = Color(red: 201.0/255, green: 162.0/255, blue: 39.0/255)
     static let card = Color.white
     static let textPrimary = Color.black.opacity(0.85)
     static let textSecondary = Color.black.opacity(0.55)
